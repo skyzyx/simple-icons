@@ -32,7 +32,7 @@
   "license": "CC0-1.0",
   "devDependencies": {
     "editorconfig-checker": "4.0.2",
-    "esbuild": "0.14.8",
+    "esbuild": "0.25.0",
     "fake-diff": "1.0.0",
     "husky": "7.0.4",
     "is-ci": "3.0.1",
